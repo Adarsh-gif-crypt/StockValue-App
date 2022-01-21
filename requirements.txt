@@ -91,3 +91,4 @@ watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.2
+yfinance==0.1.69
