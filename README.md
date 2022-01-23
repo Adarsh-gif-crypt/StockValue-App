@@ -1,4 +1,4 @@
-## (StockApp-Test)[https://share.streamlit.io/adarsh-gif-crypt/stockapp-test/main]
+## [StockApp](https://share.streamlit.io/adarsh-gif-crypt/stockapp-test/main)
 - This app shows the historical data of a few selected stocks
 - Work in progress
 
